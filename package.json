@@ -12,6 +12,6 @@
   "type": "commonjs",
   "devDependencies": {
     "bulma": "^1.0.4",
-    "sass": "^1.104.1"
+    "sass": "^1.105.0"
   }
 }
