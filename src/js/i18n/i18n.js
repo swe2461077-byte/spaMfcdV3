@@ -22,6 +22,7 @@ export function t(path) {
 
   return value ?? path;
 }
+
 export function toggleLanguage() {
   const current = getCurrentLanguage();
   const next = current === "mn" ? "en" : "mn";
