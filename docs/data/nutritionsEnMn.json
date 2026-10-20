@@ -2,26 +2,17 @@
   {
     "food_code": "01_0106",
     "food_group": {
-      "en": {
-        "en": "Cereals and Cereal products",
-        "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
-      },
-      "mn": ""
+      "en": "Cereals and Cereal products",
+      "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
     },
     "food_name": {
-      "en": {
-        "en": "Barley flour, whole grain",
-        "mn": "Арвайн эслэгт гурил"
-      },
-      "mn": ""
+      "en": "Barley flour, whole grain",
+      "mn": "Арвайн эслэгт гурил"
     },
     "scientific_name": "Hordeum vulgare",
     "province": {
-      "en": {
-        "en": "Uvs",
-        "mn": "Увс"
-      },
-      "mn": ""
+      "en": "Uvs",
+      "mn": "Увс"
     },
     "proximates": {
       "Energy (kcal)": 358,
@@ -47,60 +38,39 @@
     },
     "collection_information": {
       "Collection area": {
-        "en": {
-          "en": "Uvs province, Uvs food JSC",
-          "mn": "Увс аймаг, Увс хүнс ХХК"
-        },
-        "mn": ""
+        "en": "Uvs province, Uvs food JSC",
+        "mn": "Увс аймаг, Увс хүнс ХХК"
       },
       "Collection date": "05.10.2021",
       "Basis of sample selection": {
-        "en": {
-          "en": "Culture and customs",
-          "mn": "Соёл ба зан заншил"
-        },
-        "mn": ""
+        "en": "Culture and customs",
+        "mn": "Соёл ба зан заншил"
       },
       "Additional collection information": {
-        "en": {
-          "en": "Product name: Fiber barley  flour",
-          "mn": "Бүтээгдэхүүний нэр: Эслэгтэй арвайн гурил"
-        },
-        "mn": ""
+        "en": "Product name: Fiber barley  flour",
+        "mn": "Бүтээгдэхүүний нэр: Эслэгтэй арвайн гурил"
       }
     },
     "edible_inedible_part": {
       "Weight of whole part (g/1 piece)": "1000",
       "Weight of edible part (g/1 piece)": "1000",
       "Inedible part (discarded part)": {
-        "en": {
-          "en": "",
-          "mn": ""
-        },
+        "en": "",
         "mn": ""
       },
       "Weight of inedible part (g/1 piece)": null
     },
     "pretreatment_conditions": {
       "Cooking (processing) method": {
-        "en": {
-          "en": "",
-          "mn": ""
-        },
+        "en": "",
         "mn": ""
       },
       "Other cooking (processing) conditions": {
-        "en": {
-          "en": "",
-          "mn": ""
-        },
+        "en": "",
         "mn": ""
       },
       "Reference for condition setting": {
-        "en": {
-          "en": "",
-          "mn": ""
-        },
+        "en": "",
         "mn": ""
       }
     }
