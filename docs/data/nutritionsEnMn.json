@@ -1,0 +1,108 @@
+[
+  {
+    "food_code": "01_0106",
+    "food_group": {
+      "en": {
+        "en": "Cereals and Cereal products",
+        "mn": "Үр тариа ба үр тариан бүтээгдэхүүн"
+      },
+      "mn": ""
+    },
+    "food_name": {
+      "en": {
+        "en": "Barley flour, whole grain",
+        "mn": "Арвайн эслэгт гурил"
+      },
+      "mn": ""
+    },
+    "scientific_name": "Hordeum vulgare",
+    "province": {
+      "en": {
+        "en": "Uvs",
+        "mn": "Увс"
+      },
+      "mn": ""
+    },
+    "proximates": {
+      "Energy (kcal)": 358,
+      "Water (g)": 9.7,
+      "Protein (g)": 12.05,
+      "Fat (g)": 0.55,
+      "Ash (g)": 1.59,
+      "Carbohydrate (g)": 76.13
+    },
+    "minerals": {
+      "Calcium (mg)": 100,
+      "Iron (mg)": 18.7,
+      "Phosphorus (mg)": 24,
+      "Potassium (mg)": 7,
+      "Sodium (mg)": 2
+    },
+    "vitamins": {
+      "Vitamin A (μg)": 1,
+      "Thiamin (mg)": 0.28,
+      "Riboflavin (mg)": 0.11,
+      "Vitamin C (mg)": 22.95,
+      "Refuse (%)": 0
+    },
+    "collection_information": {
+      "Collection area": {
+        "en": {
+          "en": "Uvs province, Uvs food JSC",
+          "mn": "Увс аймаг, Увс хүнс ХХК"
+        },
+        "mn": ""
+      },
+      "Collection date": "05.10.2021",
+      "Basis of sample selection": {
+        "en": {
+          "en": "Culture and customs",
+          "mn": "Соёл ба зан заншил"
+        },
+        "mn": ""
+      },
+      "Additional collection information": {
+        "en": {
+          "en": "Product name: Fiber barley  flour",
+          "mn": "Бүтээгдэхүүний нэр: Эслэгтэй арвайн гурил"
+        },
+        "mn": ""
+      }
+    },
+    "edible_inedible_part": {
+      "Weight of whole part (g/1 piece)": "1000",
+      "Weight of edible part (g/1 piece)": "1000",
+      "Inedible part (discarded part)": {
+        "en": {
+          "en": "",
+          "mn": ""
+        },
+        "mn": ""
+      },
+      "Weight of inedible part (g/1 piece)": null
+    },
+    "pretreatment_conditions": {
+      "Cooking (processing) method": {
+        "en": {
+          "en": "",
+          "mn": ""
+        },
+        "mn": ""
+      },
+      "Other cooking (processing) conditions": {
+        "en": {
+          "en": "",
+          "mn": ""
+        },
+        "mn": ""
+      },
+      "Reference for condition setting": {
+        "en": {
+          "en": "",
+          "mn": ""
+        },
+        "mn": ""
+      }
+    }
+  }
+]
